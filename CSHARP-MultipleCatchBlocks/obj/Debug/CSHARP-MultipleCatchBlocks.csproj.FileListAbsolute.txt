@@ -7,3 +7,6 @@ c:\users\kasani\documents\visual studio 2015\Projects\CSHARP-MultipleCatchBlocks
 C:\Users\KASANI\Source\Repos\CSHARP-MultipleCatchBlocks\CSHARP-MultipleCatchBlocks\bin\Debug\CSHARP-MultipleCatchBlocks.exe.config
 C:\Users\KASANI\Source\Repos\CSHARP-MultipleCatchBlocks\CSHARP-MultipleCatchBlocks\obj\Debug\CSHARP-MultipleCatchBlocks.exe
 C:\Users\KASANI\Source\Repos\CSHARP-MultipleCatchBlocks\CSHARP-MultipleCatchBlocks\obj\Debug\CSHARP-MultipleCatchBlocks.pdb
+C:\Users\KASANI\Source\Repos\CSHARP-MultipleCatchBlocks\CSHARP-MultipleCatchBlocks\bin\Debug\CSHARP-MultipleCatchBlocks.exe
+C:\Users\KASANI\Source\Repos\CSHARP-MultipleCatchBlocks\CSHARP-MultipleCatchBlocks\bin\Debug\CSHARP-MultipleCatchBlocks.pdb
+C:\Users\KASANI\Source\Repos\CSHARP-MultipleCatchBlocks\CSHARP-MultipleCatchBlocks\obj\Debug\CSHARP-MultipleCatchBlocks.csprojResolveAssemblyReference.cache
