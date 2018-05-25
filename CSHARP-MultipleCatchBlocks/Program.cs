@@ -12,9 +12,9 @@ namespace CSHARP_MultipleCatchBlocks
         {
             try
             {
-                Console.Write("Enter a value : ");
+                Console.Write("Enter numerator value : ");
                 int? numerator = int.Parse(Console.ReadLine());
-                Console.Write("Enter b value : ");
+                Console.Write("Enter denominator value : ");
                 int? denominator = int.Parse(Console.ReadLine());
                 int? result = numerator / denominator;
                 Console.WriteLine("Division Of numerator/denominator : {0}", result);
